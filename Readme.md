@@ -1,0 +1,1 @@
+This is just a practice project so that I can see the features and applications in JavaFx
